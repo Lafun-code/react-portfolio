@@ -28,12 +28,12 @@ To run this project on your local machine, you must have [Node.js](https://nodej
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/Lafun-code/cool-portfolio.git](https://github.com/Lafun-code/cool-portfolio.git)
+    git clone [https://github.com/Lafun-code/react-portfolio.git](https://github.com/Lafun-code/react-portfolio.git)
     ```
    
 2.  Navigate to the project directory:
     ```bash
-    cd cool-portfolio
+    cd react-portfolio
     ```
    
 3.  Install the project dependencies:
@@ -87,12 +87,12 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için [Node.js](https://node
 
 1.  Bu depoyu klonlayın:
     ```bash
-    git clone [https://github.com/Lafun-code/cool-portfolio.git](https://github.com/Lafun-code/cool-portfolio.git)
+    git clone [https://github.com/Lafun-code/react-portfolio.git](https://github.com/Lafun-code/react-portfolio.git)
     ```
    
 2.  Proje klasörüne gidin:
     ```bash
-    cd cool-portfolio
+    cd react-portfolio
     ```
    
 3.  Proje bağımlılıklarını yükleyin:
