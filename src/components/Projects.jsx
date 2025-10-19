@@ -47,7 +47,7 @@ function Projects() {
         <p>{t.project3Desc}</p>
       </div>
 
-      {/* Orijinal HTML'de bu bölüm section dışındaydı, React'te düzelttik */}
+      
       <div className="project">
         <h3>
           <a
@@ -59,6 +59,19 @@ function Projects() {
           </a>
         </h3>
         <p>{t.project4Desc}</p>
+      </div>
+
+      <div className="project">
+        <h3>
+          <a
+            href="https://github.com/Lafun-code/react-portfolio"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {t.project5Title}
+          </a>
+        </h3>
+        <p>{t.project5Desc}</p>
       </div>
     </section>
   );

@@ -38,7 +38,9 @@ const translations = {
       "A powerful, Python-based desktop application for downloading YouTube videos in HD, SD, or MP3 format. Includes an intuitive graphical interface built with PyQt5 and seamless integration with yt-dlp.",
     project4Title: "Source Code of This Site",
     project4Desc:
-      "The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information about the developer, such as About, Skills, Experience, Education, Projects, and Contact, is presented as if being displayed by running type [filename] commands.",
+    "The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information about the developer, such as About, Skills, Experience, Education, Projects, and Contact, is presented as if being displayed by running type [filename] commands.",
+    project5Title:"Source Code of This Site With React",
+    project5Desc:"Same",
     contactTitle: "contact.bat",
   },
   tr: {
