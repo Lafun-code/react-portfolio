@@ -38,9 +38,10 @@ const translations = {
       "A powerful, Python-based desktop application for downloading YouTube videos in HD, SD, or MP3 format. Includes an intuitive graphical interface built with PyQt5 and seamless integration with yt-dlp.",
     project4Title: "Source Code of This Site",
     project4Desc:
-    "The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information about the developer, such as About, Skills, Experience, Education, Projects, and Contact, is presented as if being displayed by running type [filename] commands.",
-    project5Title:"Source Code of This Site With React",
-    project5Desc:"Same",
+      "The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information about the developer, such as About, Skills, Experience, Education, Projects, and Contact, is presented as if being displayed by running type [filename] commands.",
+    project5Title: "Source Code of This Site (React)",
+    project5Desc:
+      "The source code of this portfolio, refactored into a modern single-page application using React, Vite, and React Context for state management.",
     contactTitle: "contact.bat",
   },
   tr: {
@@ -79,6 +80,11 @@ const translations = {
     project4Title: "Bu Sitenin Kaynak Kodu",
     project4Desc:
       "Site, siyah arka plan üzerine yeşil metinlerin kullanıldığı eski bir bilgisayar terminali (DOS komut satırı) arayüzü şeklinde tasarlanmıştır. Geliştiricinin Hakkında, Yetenekler, Deneyim, Eğitim, Projeler ve İletişim bilgileri, type [dosya_adı] komutları çalıştırılıyormuş gibi sunulmaktadır.",
+    project5Title: "Bu Sitenin Kaynak Kodu (React)",
+    project5Desc:
+      "Bu portfolyonun kaynak kodları; React, Vite ve state yönetimi için React Context kullanılarak modern bir tek sayfa uygulamasına dönüştürülmüş halidir.",
+    
+
     contactTitle: "iletisim.bat",
   },
 };
