@@ -27,9 +27,9 @@ const translations = {
     degree: "Computer Programming",
     educationDate: "2024 - Present",
     projectsTitle: "projects.dir",
-    project1Title: 'Game "Development"',
+    project1Title: 'Youtube-Shorts-Auto-Scroller"',
     project1Desc:
-      "Memory analysis and real-time modification developed with C++.",
+      "Automatically moves to the next YouTube Shorts video when one ends.",
     project2Title: "Discord Bot",
     project2Desc:
       "An interactive music bot developed with JS for user engagement.",
@@ -69,9 +69,9 @@ const translations = {
     degree: "Bilgisayar Programcılığı",
     educationDate: "2024 - Günümüz",
     projectsTitle: "projeler.dir",
-    project1Title: 'Oyun "Geliştirme"',
+    project1Title: 'Youtube-Reels-için Otomatik-Kaydırma Eklentisi"',
     project1Desc:
-      "C++ ile geliştirilmiş memory analizi ve gerçek zamanlı degiştirme.",
+      "Otomatik Kaydırır",
     project2Title: "Discord Botu",
     project2Desc: "JS ile geliştirilmiş kullanıcı interaktifli bir müzik botu.",
     project3Title: "Youtube-indirici",

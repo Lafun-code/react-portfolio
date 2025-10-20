@@ -11,7 +11,7 @@ function Projects() {
       <div className="project">
         <h3>
           <a
-            href="https://github.com/Lafun-code/CS2_External"
+            href="https://github.com/Lafun-code/youtube-shorts-auto-scroller"
             target="_blank"
             rel="noopener noreferrer"
           >
