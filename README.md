@@ -4,7 +4,7 @@ This repository contains the source code for the React version of Hüsnü Emre B
 
 The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information is presented as if being displayed by running `type [filename]` commands.
 
-![Site Screenshot](https://i.imgur.com/56VcNhD.png)
+![Site Screenshot](https://i.imgur.com/dTmTEMS.png)
 
 ## ✨ Features
 
