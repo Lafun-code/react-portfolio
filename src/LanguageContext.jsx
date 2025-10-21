@@ -27,7 +27,7 @@ const translations = {
     degree: "Computer Programming",
     educationDate: "2024 - Present",
     projectsTitle: "projects.dir",
-    project1Title: 'Youtube-Shorts-Auto-Scroller"',
+    project1Title: 'Youtube-Shorts-Auto-Scroller',
     project1Desc:
       "Automatically moves to the next YouTube Shorts video when one ends.",
     project2Title: "Discord Bot",
@@ -69,7 +69,7 @@ const translations = {
     degree: "Bilgisayar Programcılığı",
     educationDate: "2024 - Günümüz",
     projectsTitle: "projeler.dir",
-    project1Title: 'Youtube-Reels-için Otomatik-Kaydırma Eklentisi"',
+    project1Title: 'Youtube-Reels-için Otomatik-Kaydırma Eklentisi',
     project1Desc:
       "Otomatik Kaydırır",
     project2Title: "Discord Botu",

@@ -10,27 +10,27 @@ function Contact() {
       {/* Bu bölümdeki linkler statikti, çeviriye gerek yok */}
       <ul>
         <li>
-          Email:
+           Email:
           <a href="mailto:husnuemre@outlook.com">husnuemre@outlook.com</a>
         </li>
         <li>
           GitHub:
           <a
-            href="https.github.com/Lafun-code"
+            href="https://github.com/Lafun-code"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Lafun-code
+             Lafun-code
           </a>
         </li>
         <li>
           LinkedIn:
           <a
-            href="https://www.linkedin.com/in/husnu-emre-berkay-040b46270/"
+            href="https://www.linkedin.com/in/husnuemreberkay/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            husnu-emre-berkay-040b46270
+             Husnu Emre Berkay
           </a>
         </li>
       </ul>
