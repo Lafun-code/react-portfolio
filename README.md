@@ -1,10 +1,10 @@
-# H. Emre Berkay's Retro Terminal Portfolio (React Version)
+<img width="1208" height="904" alt="image" src="https://github.com/user-attachments/assets/0eeb95cc-b0cc-48af-88e7-10c2ec58f041" /><img width="1208" height="904" alt="image" src="https://github.com/user-attachments/assets/6e36d9c8-7411-4646-b16e-f0c50ce55bde" /># H. Emre Berkay's Retro Terminal Portfolio (React Version)
 
 This repository contains the source code for the React version of Hüsnü Emre Berkay's personal portfolio website, live at [hemreberkay.com.tr](https://hemreberkay.com.tr/)
 
 The site is designed with the aesthetic of an old computer terminal (DOS command line), featuring green text on a black background. Information is presented as if being displayed by running `type [filename]` commands.
 
-![Site Screenshot](https://i.imgur.com/dTmTEMS.png)
+![Site Screenshot](https://i.imgur.com/nhRAlI6.png)
 
 ## ✨ Features
 
@@ -63,7 +63,7 @@ Bu depo, Hüsnü Emre Berkay'ın [hemreberkay.com.tr](https://hemreberkay.com.tr
 
 Site, siyah arka plan üzerine yeşil metinlerin kullanıldığı eski bir bilgisayar terminali (DOS komut satırı) arayüzü şeklinde tasarlanmıştır. Bilgiler, `type [dosya_adı]` komutları çalıştırılıyormuş gibi sunulmaktadır.
 
-![Site Ekran Görüntüsü](https://i.imgur.com/fQB2kzB.png)
+![Site Ekran Görüntüsü](https://i.imgur.com/dTmTEMS.png)
 
 ## ✨ Özellikler
 
