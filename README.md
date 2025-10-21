@@ -1,4 +1,4 @@
-<img width="1208" height="904" alt="image" src="https://github.com/user-attachments/assets/0eeb95cc-b0cc-48af-88e7-10c2ec58f041" /><img width="1208" height="904" alt="image" src="https://github.com/user-attachments/assets/6e36d9c8-7411-4646-b16e-f0c50ce55bde" /># H. Emre Berkay's Retro Terminal Portfolio (React Version)
+# H. Emre Berkay's Retro Terminal Portfolio (React Version)
 
 This repository contains the source code for the React version of Hüsnü Emre Berkay's personal portfolio website, live at [hemreberkay.com.tr](https://hemreberkay.com.tr/)
 
